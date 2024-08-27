@@ -1,3 +1,5 @@
+package Level1;
+
 public class DigitsAdder {
     public static void main(String[] args) {
         int n = 987, answer = 0;

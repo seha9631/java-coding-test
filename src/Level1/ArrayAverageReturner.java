@@ -1,3 +1,5 @@
+package Level1;
+
 public class ArrayAverageReturner {
     public static void main(String[] args) {
         double a;

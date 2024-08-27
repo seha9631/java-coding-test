@@ -1,3 +1,5 @@
+package Level1;
+
 public class SumofMeasure {
     public static void main(String[] args) {
         int A = 0;

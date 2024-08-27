@@ -1,3 +1,5 @@
+package Level1;
+
 public class PYCounter {
     public static void main(String[] args) {
         boolean answer = true;
@@ -11,6 +13,7 @@ public class PYCounter {
         for (int i = 0; i < s.length(); i++) {
             if (s.charAt(i) == 'p' || s.charAt(i) == 'P')
                 count++;
+            if (s.charAt(i) == 'y' || s.charAt(i) == 'Y')
                 count--;
         }
         if (count == 0)
